@@ -41,20 +41,19 @@ This project provides a complete vendor performance analysis using sales, purcha
 - Computed KPIs for brand + vendor + store level
 
 # Dashboard Features
-
-The Power BI dashboard includes:
-🔸 Vendor Contribution Distribution
-Identify top revenue & purchase contributors
-🔸 Profit Margin Analysis
-Product and vendor-level margin performance
-🔸 Inventory Turnover Heatmap
-Highlight slow-moving, unsold & high-demand stock
-🔸 Pricing vs Sales Volume
-Detect high-margin but low-sales opportunity brands
-🔸 Freight Impact
-Measure freight cost effect on profitability
-🔸 SKU & Brand Drilldowns
-Interactive brand → product → store exploration
+- The Power BI dashboard includes:
+ -  Vendor Contribution Distribution
+   - Identify top revenue & purchase contributors
+ - Profit Margin Analysis
+   - Product and vendor-level margin performance
+ - Inventory Turnover Heatmap
+   -Highlight slow-moving, unsold & high-demand stock
+- Pricing vs Sales Volume
+ - Detect high-margin but low-sales opportunity brands
+-Freight Impact
+  - Measure freight cost effect on profitability
+- SKU & Brand Drilldowns
+  -Interactive brand → product → store exploration
 
 # Key Insights
 
