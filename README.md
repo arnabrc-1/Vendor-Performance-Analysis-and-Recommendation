@@ -33,12 +33,12 @@ This project provides a complete vendor performance analysis using sales, purcha
 
 # Data Cleaning & Preparation
 
-✔ Ingested raw CSVs using automatic chunking (50k rows)
-✔ Stored structured tables in SQLite database
-✔ Merged sales, purchases, pricing & freight tables
-✔ Removed whitespace, fixed types & handled null values
-✔ Filtered invalid records (zero sales, zero revenue, negative margins)
-✔ Computed KPIs for brand + vendor + store level
+- Ingested raw CSVs using automatic chunking (50k rows)
+- Stored structured tables in SQLite database
+- Merged sales, purchases, pricing & freight tables
+- Removed whitespace, fixed types & handled null values
+- Filtered invalid records (zero sales, zero revenue, negative margins)
+- Computed KPIs for brand + vendor + store level
 
 # Dashboard Features
 
