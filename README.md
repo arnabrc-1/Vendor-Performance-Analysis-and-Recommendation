@@ -1,5 +1,15 @@
 # Vendor-Performance-Analysis-and-Recommendation
 This project provides a complete vendor performance analysis using sales, purchase, pricing, and freight data to evaluate profitability, stock turnover, and vendor contribution. The goal is to uncover strategic opportunities to improve pricing, reduce inventory costs, identify high/low performing vendors, and optimize business decisions.
+
+# Project Objectives
+
+- Identify top & bottom performing vendors
+- Improve pricing efficiency & profit margin
+- Optimize inventory turnover & reduce holding cost
+ Evaluate freight cost impact
+- Reduce vendor dependency risk
+- Empower decision-making with BI reporting
+- 
 # Dataset Summary
 
 - The project uses multiple raw datasets integrated through SQL + Python:
@@ -95,3 +105,20 @@ Identified pricing mismatches between purchase and sales rates
 Supported targeted promotion strategy to lift volume
 
 Overall, the project enabled clearer insight into profit drivers, cost risks, and growth opportunities.
+
+# Tools & Skills Used
+| Category        | Tools                         |
+| --------------- | ----------------------------- |
+| Data Processing | Python, Pandas                |
+| Database        | SQLite, SQLAlchemy            |
+| Dashboard       | Power BI                      |
+| Analysis        | Jupyter Notebook              |
+| Reporting       | PDF, Excel                    |
+| Modeling        | SQL aggregation + custom KPIs |
+
+- Additional skills demonstrated:
+  - ETL pipeline development
+  - Data engineering (chunk ingestion + DB design)
+  - Profitability modeling
+  - Business analytics & visualization
+  - Inventory & vendor analysis
